@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the hedeqiang/weather.
+ * This file is part of the hedeqiang/geocode.
  *
  * (c) hedeqiang<laravel_code@163.com>
  *
@@ -13,5 +13,4 @@ namespace Hedeqiang\Geocode\Exceptions;
 
 class Exception extends \Exception
 {
-
 }
