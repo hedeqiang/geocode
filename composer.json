@@ -1,0 +1,21 @@
+{
+    "name": "hedeqiang/geocode",
+    "description": "gaode",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hedeqiang",
+            "email": "laravel_code@163.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpunit/phpunit": "^7.3",
+        "mockery/mockery": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hedeqiang\\Geocode\\": "./src/"
+        }
+    }
+}
